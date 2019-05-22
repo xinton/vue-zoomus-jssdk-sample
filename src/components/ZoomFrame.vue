@@ -24,9 +24,9 @@ ZoomMtg.preLoadWasm();
 
 ZoomMtg.prepareJssdk();
 
-var API_KEY = "NxgOR_8sShS6hc9RQcr9Ng";
+var API_KEY = <API_KEY>;
 
-var API_SECRET = "KBPrcxJXaHOwO3LPKPZRRCPoWLrwH7cNsYRV";
+var API_SECRET = <API_SECRET>;
 
 export default {
   name: "ZoomFrame",
