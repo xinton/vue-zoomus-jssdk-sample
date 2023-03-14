@@ -1,4 +1,8 @@
-# poc
+# Demo Vue and Zoom websdk NPM version
+
+This is a provisional version.
+Use the official version supported by the Zoom.us team:
+https://github.com/zoom/meetingsdk-vuejs-sample
 
 ## Project setup
 ```
